@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_015286563.1       -          mcrAgene_18          -             2e-259  859.3   1.5  2.4e-259  859.0   1.5   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+WP_048111146.1       -          mcrAgene_18          -           1.6e-252  836.5   2.8  1.9e-252  836.2   2.8   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_19.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_19.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_19.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
