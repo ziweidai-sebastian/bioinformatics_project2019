@@ -1,0 +1,561 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_09.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_09.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_09.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:37 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_10.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_10.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_10.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:37 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_11.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_11.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_11.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:37 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_12.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_12.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_12.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:37 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_13.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_13.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_13.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_14.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_14.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_14.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_011972678.1       -          mcrAgene_18          -           1.4e-234  776.5   2.5  1.8e-234  776.2   2.5   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_15.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_15.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_15.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_012035370.1       -          mcrAgene_18          -           7.1e-280  926.9   4.4  8.6e-280  926.7   4.4   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_16.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_16.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_16.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_17.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_17.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_17.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_18.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_18.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_18.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_015286563.1       -          mcrAgene_18          -             2e-259  859.3   1.5  2.4e-259  859.0   1.5   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+WP_048111146.1       -          mcrAgene_18          -           1.6e-252  836.5   2.8  1.9e-252  836.2   2.8   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_19.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_19.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_19.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_20.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_20.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_20.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_21.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_21.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_21.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_22.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_22.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_22.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_011954158.1       -          mcrAgene_18          -           1.8e-238  789.4   1.2  2.1e-238  789.2   1.2   1.0   1   0   0   1   1   1   1 MULTISPECIES: coenzyme-B sulfoethylthiotransferase subunit alpha 
+WP_011954235.1       -          mcrAgene_18          -             1e-237  786.9   2.8  1.3e-237  786.6   2.8   1.0   1   0   0   1   1   1   1 MULTISPECIES: coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_23.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_23.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_23.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_011033189.1       -          mcrAgene_18          -                  0 1111.3   5.4         0 1111.1   5.4   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_24.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_24.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_24.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_25.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_25.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_25.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_26.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_26.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_26.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_27.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_27.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_27.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_28.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_28.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_28.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:38 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_013099697.1       -          mcrAgene_18          -           1.4e-258  855.5   0.7  1.7e-258  855.2   0.7   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_29.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_29.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_29.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_30.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_30.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_30.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_31.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_31.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_31.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_32.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_32.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_32.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_33.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_33.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_33.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_34.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_34.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_34.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_35.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_35.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_35.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_36.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_36.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_36.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_37.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_37.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_37.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_012035370.1       -          mcrAgene_18          -           7.1e-280  926.9   4.4  8.6e-280  926.7   4.4   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_38.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_38.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_38.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_012035370.1       -          mcrAgene_18          -           7.1e-280  926.9   4.4  8.6e-280  926.7   4.4   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_39.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_39.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_39.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_40.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_40.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_40.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_41.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_41.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_41.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_048120720.1       -          mcrAgene_18          -                  0 1113.6   4.0         0 1113.4   4.0   1.0   1   0   0   1   1   1   1 MULTISPECIES: coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_42.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_42.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_42.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_43.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_43.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_43.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_012035370.1       -          mcrAgene_18          -           7.1e-280  926.9   4.4  8.6e-280  926.7   4.4   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_44.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_44.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_44.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_048120720.1       -          mcrAgene_18          -                  0 1113.6   4.0         0 1113.4   4.0   1.0   1   0   0   1   1   1   1 MULTISPECIES: coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_45.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_45.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_45.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:39 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_46.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_46.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_46.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:40 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_47.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_47.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_47.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:40 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_012035370.1       -          mcrAgene_18          -           7.1e-280  926.9   4.4  8.6e-280  926.7   4.4   1.0   1   0   0   1   1   1   1 coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_48.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_48.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_48.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:40 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_49.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_49.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_49.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:40 2019
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_048120720.1       -          mcrAgene_18          -                  0 1113.6   4.0         0 1113.4   4.0   1.0   1   0   0   1   1   1   1 MULTISPECIES: coenzyme-B sulfoethylthiotransferase subunit alpha 
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm
+# Target file:     /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_50.fasta
+# Option settings: /afs/crc.nd.edu/user/z/zdai2/hmmer-3.2.1/src/hmmsearch --tblout mcrAgene_in_proteome_50.txt /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/ref_sequences/mcrAgene_18.hmm /afs/crc.nd.edu/user/z/zdai2/bioinformatics_project2019/proteomes/proteome_50.fasta 
+# Current dir:     /afs/crc.nd.edu/user/z/zdai2
+# Date:            Wed Oct 16 11:37:40 2019
+# [ok]
