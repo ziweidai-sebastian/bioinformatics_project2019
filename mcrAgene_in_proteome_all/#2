@@ -7,6 +7,7 @@ cat ./ref_sequences/hsp70gene_*.fasta > hsp70_combo.fasta
 ./hmmbuild hsp70.hmm hsp70.msa
 ./hmmbuild mcrA.hmm mcrA.msa
 
+#search samples 
 for sample in proteomes/proteome*.fasta
 do
 tblname=$(echo $sample | sed 's/.fasta/mcrA/')
