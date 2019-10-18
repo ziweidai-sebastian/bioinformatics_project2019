@@ -35,6 +35,7 @@ tblname=$(echo $sample | sed 's/.fasta/hsp70/')
 ./hmmsearch --tblout $tblname.tbl hsp70.hmm $sample
 done
 
+#get protease can most match
 for file in proteomes/proteome_*hsp70.tbl
 do
 echo "$file $(cat $file | wc -l)" >> candidatelists.txt
