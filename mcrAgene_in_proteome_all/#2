@@ -1,36 +1,43 @@
+# create  ref sequence files for mcrA gene and HSP70 genes and align them
+
 cat ./ref_sequences/mcrAgene_*.fasta > mcrA_combo.fasta
 ./muscle -in mcrA_combo.fasta -out mcrA.msa
 cat ./ref_sequences/hsp70gene_*.fasta > hsp70_combo.fasta
 ./muscle -in hsp70_combo.fasta -out hsp70.msa
 ./hmmbuild hsp70.hmm hsp70.msa
 ./hmmbuild mcrA.hmm mcrA.msa
+
 for sample in proteomes/proteome*.fasta
 do
 tblname=$(echo $sample | sed 's/.fasta/mcrA/')
 ./hmmsearch --tblout $tblname.tbl mcrA.hmm $sample
 Done
+
 for sample in proteomes/proteome*.fasta
 do
 tblname=$(echo $sample | sed 's/.fasta/mcrA/')
 ./hmmsearch --tblout $tblname.tbl mcrA.hmm $sample
 done
+
 for table in proteomes/proteome_*mcrA.tbl
 do
 echo "$table $(cat $table | wc -l)" >> mcrAlack.txt
 done
 
-#14 lines are found to indicate the lack of mcrA gene, and we have no need for those proteomes; proteomes with mcrA are moved to another list
+#get mcralack samples back
 
 cat mcrAlack.txt | grep -v "14" > mcrfinal.txt
-cat mcrAfinal.txt | cut -d " " -f 1 | sed 's/mcrA.tbl/.fasta/' > onestosearch.txt
-for sample in $(cat onestosearch.txt )
+cat mcrAfinal.txt | cut -d " " -f 1 | sed 's/mcrA.tbl/.fasta/' > searchout.txt
+for sample in $(cat searchout.txt )
 do
 tblname=$(echo $sample | sed 's/.fasta/hsp70/')
 ./hmmsearch --tblout $tblname.tbl hsp70.hmm $sample
 done
+
 for file in proteomes/proteome_*hsp70.tbl
 do
 echo "$file $(cat $file | wc -l)" >> candidatelists.txt
 done
+
 echo "The best Match are:" > Bestmatch.txt
 cat candidatelists.txt | sort -k2 -r | cut -d " " -f 1 | sed 's/proteomes\///' | sed 's/hsp70.tbl//' >> Bestmatch.txt
